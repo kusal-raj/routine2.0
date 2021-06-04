@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	background: skyblue;
+}
+header{
+	align-items: center;
+}
+.title{
+	align-content: center;
+    text-align: center;
+}
+.images{
+	height: 300px;
+	width: 300px;
+	
+}
+.lines{
+	line-height: 300;
+}
+.td{
+	border-color: green;
+	background-color: yellow;
+	text-decoration-color: blue;
+	font: Century Gothic;
+
+}
+.container{
+			float: left;
+			width: 25%;
+			padding: 0;
+			margin:auto;
+			overflow: auto;
+
+
+		}
+		.gallery img{
+			border: 1px solid #ccc;
+			height: 300px;
+		}
